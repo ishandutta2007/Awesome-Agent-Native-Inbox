@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://im..shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-th--badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Agent-Native-Inbox/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Agent-Native-Inbox?style=flat-square&color=38bdf8" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Agent-Native-Inbox/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Agent-Native-Inbox?style=flat-square&color=38bdf8" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Agent-Native-Inbox/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Agent-Native-Inbox?style=flat-square&color=a855f7" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Agent-Native-Inbox/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Agent-Native-Inbox/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -82,7 +82,7 @@ The following hosted solutions provide turnkey agent email infrastructure, manag
 
 For engineering teams seeking total data sovereignty, zero vendor lock-in, and self-hosted control, these active open-source projects power production-grade agent mailboxes, SMTP servers, testing utilities, and security sidecars. 
 
-The list below is sorted descending by **GitHub Stars**:
+The list below is sorted descending by **GitHub_Stars**:
 
 1. **[docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)** [![Stars](https://img.shields.io/github/stars/docker-mailserver/docker-mailserver?style=social&color=white)](https://github.com/docker-mailserver/docker-mailserver/stargazers)  
    Production-ready, fullstack containerized mail server image (Postfix, Dovecot, ClamAV, SpamAssassin, OpenDKIM). Widely deployed as the robust private backend for self-hosted agent sidecars and Maildir watchers.
@@ -168,7 +168,7 @@ Contributions are welcome and celebrated! To contribute a new SaaS tool or open-
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-agent-inbox`.
 3. 📝 **Add your entry** to `README.md`:
    - For **SaaS tools**: Provide exact starting pricing, precise free tier/trial limits, and company size/valuation.
-   - For **Open-Source projects**: Include the official GitHub repository link, star badge, license, and architectural highlights.
+   - For **Open-Source projects**: Include the official GitHub repository link, Stars_Badge, license, and architectural highlights.
 4. 🚀 **Submit a Pull Request** with a brief summary explaining the project's significance to agent email workflows.
 
 ---
